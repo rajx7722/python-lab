@@ -1,0 +1,3 @@
+txt and ignore the lines which start from with an uppercase letter.
+txt should contain only those lines from the file Demo.
+txt which start with a lowercase letter.

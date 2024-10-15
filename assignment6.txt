@@ -1,0 +1,25 @@
+Python Assignment 6
+1.	Write a python program to compute the area of circle, square, and rectangle by using module.
+2.	Write a python program to calculate the frequency of vowels and consonants in file.
+3.	Write a python program to swap the first and second half of the input file content.
+4.	Write a program to copy lines which start with a lowercase letter only from the input file Demo.txt and ignore the lines which start from with an uppercase letter. The output file Demo2.txt should contain only those lines from the file Demo.txt which start with a lowercase letter.
+5.	Create a Mad Libs program that reads in text files and lets the user add their own text anywhere the word ADJECTIVE, NOUN, ADVERB, or VERB appears in the text file. For example, a text file may look like this:
+The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was
+unaffected by these events.
+
+The program would find these occurrences and prompt the user to replace them.
+Enter an adjective:
+silly
+Enter a noun:
+chandelier
+Enter a verb:
+screamed
+Enter a noun:
+pickup truck
+
+The following text file would then be created:
+The silly panda walked to the chandelier and then screamed. A nearby pickup truck was unaffected by these events.
+
+The results should be printed to the screen.
+
+
